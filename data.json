@@ -1,0 +1,38 @@
+[
+  {
+    "id": "SV003",
+    "name": "Sơn Nguyễn",
+    "mathScore": 7.0,
+    "physicsScore": 8.0,
+    "chemistryScore": 9.0,
+    "averageScore": 8.0,
+    "gradeClassification": "Giỏi"
+  },
+  {
+    "id": "SV001",
+    "name": "Lê Văn B",
+    "mathScore": 10.0,
+    "physicsScore": 9.0,
+    "chemistryScore": 0.0,
+    "averageScore": 6.33,
+    "gradeClassification": "Trung Bình"
+  },
+  {
+    "id": "SV004",
+    "name": "Lê Văn Luyện",
+    "mathScore": 9.0,
+    "physicsScore": 4.0,
+    "chemistryScore": 6.0,
+    "averageScore": 6.33,
+    "gradeClassification": "Trung Bình"
+  },
+  {
+    "id": "SV002",
+    "name": "Lê Văn Nam",
+    "mathScore": 8.0,
+    "physicsScore": 9.0,
+    "chemistryScore": 1.0,
+    "averageScore": 6.0,
+    "gradeClassification": "Trung Bình"
+  }
+]
